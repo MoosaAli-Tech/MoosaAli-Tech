@@ -15,7 +15,7 @@ I am a 14-year-old developer and (hopefully)researcher from Pittsburgh, PA. I am
 
 ### 💻 My Tech Stack (Learning Phase)
 - **Languages:** Python 
-- **Certifications:** Google Cybersecurity & ISC2 Certified in Cybersecurity (In Progress)
+- **Certifications:** Google Cybersecurity & ISC2 Certified in Cybersecurity (In Progress)(hopefully done till august🟡,(started at MAY 5 2026)
 - **Focus:** Secure Software Development
 ---
 
